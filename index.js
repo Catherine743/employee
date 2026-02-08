@@ -5,5 +5,5 @@ function loginBtn() {
     localStorage.setItem('USERNAME',username);
 
     //redirect to index page
-    window.location = './index.html'
+    window.location = './employee.html'
 }
